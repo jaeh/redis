@@ -1,4 +1,4 @@
-u#
+#
 # magic/redis Dockerfile
 #
 # https://github.com/dockerfile/redis
